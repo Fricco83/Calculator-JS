@@ -1,1 +1,1 @@
-# Calculator-JS
+### Simple yet functional calculator written in vanilla JS.
